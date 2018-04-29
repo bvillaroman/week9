@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "5ae5ece0616a1e77c13a3831" }, "protocol" : "pcap", "hpfeed_id" : { "$oid" : "5ae5ece0616a1e77c13a3830" }, "timestamp" : { "$date" : "2018-04-29T16:03:44.088+0000" }, "source_ip" : "88.198.81.65", "source_port" : 58092, "destination_port" : 16600, "identifier" : "bb82cf3c-4bc6-11e8-9236-42010a8e0003", "honeypot" : "dionaea" }
